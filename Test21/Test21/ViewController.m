@@ -20,6 +20,8 @@
     
     
     NSLog(@"master");
+    
+    NSLog(@"add develop");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
